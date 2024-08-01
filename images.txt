@@ -5,4 +5,3 @@ mtphotos/mt-photos:latest
 jvmilazz0/kavita:latest
 gotson/komga:latest
 linuxserver/calibre-web:lastest
-#支持指定架构platform=linux/arm64 xiaoyaliu/alist
