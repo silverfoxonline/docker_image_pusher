@@ -6,5 +6,4 @@ jvmilazz0/kavita:latest
 xhofe/alist:latest
 gotson/komga:latest
 linuxserver/calibre-web:lastest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+#支持指定架构platform=linux/arm64 xiaoyaliu/alist
