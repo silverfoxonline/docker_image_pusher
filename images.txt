@@ -4,4 +4,4 @@ emby/embyserver:latest
 mtphotos/mt-photos:latest
 jvmilazz0/kavita:latest
 gotson/komga:latest
-linuxserver/calibre-web:lastest
+linuxserver/calibre-web:latest
