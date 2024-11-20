@@ -6,3 +6,4 @@ jvmilazz0/kavita:latest
 gotson/komga:latest
 linuxserver/calibre-web:latest
 mzz2017/v2raya:latest
+jxxghp/MoviePilot-v2:latest
