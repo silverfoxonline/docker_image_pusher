@@ -1,9 +1,9 @@
-nginx
+#nginx
 #支持私库
-emby/embyserver:latest
-mtphotos/mt-photos:latest
-jvmilazz0/kavita:latest
-gotson/komga:latest
-linuxserver/calibre-web:latest
-mzz2017/v2raya:latest
+#emby/embyserver:latest
+#mtphotos/mt-photos:latest
+#jvmilazz0/kavita:latest
+#gotson/komga:latest
+#linuxserver/calibre-web:latest
+#mzz2017/v2raya:latest
 jxxghp/moviepilot-v2:latest
