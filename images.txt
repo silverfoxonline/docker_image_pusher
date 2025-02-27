@@ -4,7 +4,8 @@ emby/embyserver:latest
 mtphotos/mt-photos:latest
 jvmilazz0/kavita:latest
 jxxghp/moviepilot-v2:latest
+lswl/vertex:latest
+mzz2017/v2raya:latest
 #gotson/komga:latest
 #linuxserver/calibre-web:latest
-#mzz2017/v2raya:latest
 #wiserain/flexget:latest
