@@ -6,6 +6,7 @@ jvmilazz0/kavita:latest
 jxxghp/moviepilot-v2:latest
 lswl/vertex:latest
 mzz2017/v2raya:latest
+ddsderek/wxchat
 #gotson/komga:latest
 #linuxserver/calibre-web:latest
 #wiserain/flexget:latest
