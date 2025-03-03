@@ -7,6 +7,7 @@ jxxghp/moviepilot-v2:latest
 lswl/vertex:latest
 mzz2017/v2raya:latest
 v2fly/v2fly-core:latest
+2dust/v2rayN:latest
 ddsderek/wxchat
 #dreamacro/clash
 #haishanh/yacd
