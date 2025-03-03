@@ -8,6 +8,8 @@ jxxghp/moviepilot-v2:2.3.3
 lswl/vertex:latest
 mzz2017/v2raya:latest
 ddsderek/wxchat
+dreamacro/clash
+haishanh/yacd
 #gotson/komga:latest
 #linuxserver/calibre-web:latest
 #wiserain/flexget:latest
