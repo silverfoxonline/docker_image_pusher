@@ -4,6 +4,7 @@ emby/embyserver:latest
 mtphotos/mt-photos:latest
 jvmilazz0/kavita:latest
 jxxghp/moviepilot-v2:latest
+jxxghp/moviepilot-v2:2.3.3
 lswl/vertex:latest
 mzz2017/v2raya:latest
 ddsderek/wxchat
