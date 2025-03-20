@@ -1,4 +1,5 @@
 emby/embyserver:latest
+amilys/embyserver:latest
 mtphotos/mt-photos:latest
 jvmilazz0/kavita:latest
 jxxghp/moviepilot-v2:latest
