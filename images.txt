@@ -1,9 +1,10 @@
 #nginx
 #支持私库
 #emby/embyserver:latest
-#mtphotos/mt-photos:latest
+mtphotos/mt-photos:latest
 #jvmilazz0/kavita:latest
 #jxxghp/moviepilot-v2:latest
+linuxserver/transmission:4.0.5
 #lswl/vertex:latest
 #mzz2017/v2raya:latest
 #v2fly/v2fly-core:latest
@@ -14,4 +15,4 @@
 #gotson/komga:latest
 #linuxserver/calibre-web:latest
 #wiserain/flexget:latest
-luisimon/cloudflarespeedtest
+#luisimon/cloudflarespeedtest
