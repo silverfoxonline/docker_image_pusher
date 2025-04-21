@@ -1,3 +1,5 @@
+diygod/rsshub
+#freshrss/freshrss
 #emby/embyserver:latest
 #amilys/embyserver:latest
 #mtphotos/mt-photos:latest
@@ -5,7 +7,6 @@
 #jxxghp/moviepilot-v2:latest
 #linuxserver/transmission:4.0.5
 #iyuucn/iyuuplus-dev
-freshrss/freshrss
 #lswl/vertex:latest
 #mzz2017/v2raya:latest
 #v2fly/v2fly-core:latest
