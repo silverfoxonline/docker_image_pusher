@@ -4,7 +4,8 @@
 #jvmilazz0/kavita:latest
 #jxxghp/moviepilot-v2:latest
 #linuxserver/transmission:4.0.5
-iyuucn/iyuuplus-dev
+#iyuucn/iyuuplus-dev
+freshrss/freshrss
 #lswl/vertex:latest
 #mzz2017/v2raya:latest
 #v2fly/v2fly-core:latest
