@@ -1,4 +1,5 @@
-shenxianmq/auto_symlink
+python:3.12
+#shenxianmq/auto_symlink
 #cloudnas/clouddrive2
 #diygod/rsshub
 #freshrss/freshrss
