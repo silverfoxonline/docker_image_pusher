@@ -1,6 +1,7 @@
 mtphotos/mt-photos:latest
 jxxghp/moviepilot-v2:latest
 iyuucn/iyuuplus-dev
+tinymediamanager/tinymediamanager:latest
 #python:3.12
 #shenxianmq/auto_symlink
 #cloudnas/clouddrive2
