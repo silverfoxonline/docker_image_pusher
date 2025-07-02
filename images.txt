@@ -1,3 +1,4 @@
+linuxserver/qbittorrent:4.6.7
 mtphotos/mt-photos:latest
 jxxghp/moviepilot-v2:latest
 iyuucn/iyuuplus-dev
