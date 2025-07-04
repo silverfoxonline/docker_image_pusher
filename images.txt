@@ -5,7 +5,7 @@ iyuucn/iyuuplus-dev
 tinymediamanager/tinymediamanager:latest
 #python:3.12
 #shenxianmq/auto_symlink
-#cloudnas/clouddrive2
+cloudnas/clouddrive2
 #diygod/rsshub
 #freshrss/freshrss
 #emby/embyserver:latest
