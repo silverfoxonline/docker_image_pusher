@@ -1,4 +1,5 @@
-lifj25/onestrm
+imaliang/cloud-media-sync
+#lifj25/onestrm
 #eternalcurse/pt-accelerator
 #linuxserver/qbittorrent:4.6.7
 #mtphotos/mt-photos:latest
