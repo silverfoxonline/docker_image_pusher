@@ -1,4 +1,5 @@
-imaliang/cloud-media-sync
+amilys/embyserver
+#imaliang/cloud-media-sync
 #lifj25/onestrm
 #eternalcurse/pt-accelerator
 #linuxserver/qbittorrent:4.6.7
