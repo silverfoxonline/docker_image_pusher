@@ -1,3 +1,4 @@
+portainer/portainer-ce
 #wyh3210277395/sehuatang-crawler:latest
 #imaliang/cloud-media-sync
 #mtphotos/mt-photos:latest
@@ -17,7 +18,7 @@
 #lswl/vertex:latest
 #diygod/rsshub
 #freshrss/freshrss
-mzz2017/v2raya:latest
+#mzz2017/v2raya:latest
 #v2fly/v2fly-core:latest
 #2dust/v2rayn
 #ddsderek/wxchat
