@@ -1,10 +1,10 @@
-portainer/portainer-ce
+#portainer/portainer-ce
 #wyh3210277395/sehuatang-crawler:latest
 #imaliang/cloud-media-sync
 #mtphotos/mt-photos:latest
 #jxxghp/moviepilot-v2:latest
 #iyuucn/iyuuplus-dev
-#tinymediamanager/tinymediamanager:latest
+tinymediamanager/tinymediamanager:latest
 #cloudnas/clouddrive2
 #emby/embyserver:latest
 #amilys/embyserver:latest
