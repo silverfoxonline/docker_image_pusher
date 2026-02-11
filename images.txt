@@ -1,3 +1,5 @@
+crossseed/cross-seed
+flaresolverr/flaresolverr
 #linuxserver/jackett
 #imaliang/cloud-media-sync
 #mtphotos/mt-photos:latest
