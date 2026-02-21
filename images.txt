@@ -1,3 +1,4 @@
+ccf2012/seedcross
 crossseed/cross-seed:master
 #flaresolverr/flaresolverr
 #linuxserver/jackett
