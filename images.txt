@@ -1,4 +1,4 @@
-likun7981/hlink
+#likun7981/hlink
 #ccf2012/seedcross
 crossseed/cross-seed:master
 #flaresolverr/flaresolverr
@@ -7,7 +7,7 @@ crossseed/cross-seed:master
 #mtphotos/mt-photos:latest
 #jxxghp/moviepilot-v2:latest
 #iyuucn/iyuuplus-dev
-#tinymediamanager/tinymediamanager:latest
+tinymediamanager/tinymediamanager:latest
 #cloudnas/clouddrive2
 #emby/embyserver:latest
 #amilys/embyserver:latest
