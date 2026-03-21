@@ -1,4 +1,4 @@
-thelounge/thelounge:latest
+#thelounge/thelounge:latest
 #ccf2012/seedcross
 #crossseed/cross-seed:master
 #linuxserver/jackett
@@ -18,7 +18,7 @@ thelounge/thelounge:latest
 #eternalcurse/pt-accelerator
 #linuxserver/qbittorrent:4.6.7
 #linuxserver/transmission:4.0.5
-#lswl/vertex:latest
+lswl/vertex:latest
 #diygod/rsshub
 #freshrss/freshrss
 #mzz2017/v2raya:latest
