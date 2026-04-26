@@ -1,12 +1,12 @@
-flaresolverr/flaresolverr
-#jxxghp/moviepilot-v2:latest
-#tinymediamanager/tinymediamanager:latest
+#flaresolverr/flaresolverr
+jxxghp/moviepilot-v2:latest
+tinymediamanager/tinymediamanager:latest
 crossseed/cross-seed:master
-#cloudnas/clouddrive2
+cloudnas/clouddrive2
 #thelounge/thelounge:latest
 #ccf2012/seedcross
 #linuxserver/jackett
-#imaliang/cloud-media-sync
+imaliang/cloud-media-sync
 #mtphotos/mt-photos:latest
 #iyuucn/iyuuplus-dev
 #amilys/embyserver:latest
