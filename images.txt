@@ -1,4 +1,5 @@
-newptools/harvest
+ghcr.io/autobrr/autobrr:latest
+#newptools/harvest
 #flaresolverr/flaresolverr
 #jxxghp/moviepilot-v2:latest
 #tinymediamanager/tinymediamanager:latest
@@ -20,7 +21,7 @@ newptools/harvest
 #eternalcurse/pt-accelerator
 #linuxserver/qbittorrent:4.6.7
 #linuxserver/transmission:4.0.5
-#lswl/vertex:latest
+lswl/vertex:latest
 #diygod/rsshub
 #freshrss/freshrss
 #mzz2017/v2raya:latest
