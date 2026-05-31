@@ -3,7 +3,7 @@ ghcr.io/autobrr/autobrr:latest
 #flaresolverr/flaresolverr
 #jxxghp/moviepilot-v2:latest
 #tinymediamanager/tinymediamanager:latest
-#crossseed/cross-seed:master
+crossseed/cross-seed:master
 #cloudnas/clouddrive2:latest
 #thelounge/thelounge:latest
 #ccf2012/seedcross:latest
